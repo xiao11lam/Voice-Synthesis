@@ -11,7 +11,7 @@
 
 
 
-### 作业3是由Jupyter notebook在Python环境下编写而成的，笔者所提交的文件包括: netease_test_3.py, netease_test_3.ipython, test_netease.wav。 <br/>
+### 文件3是由Jupyter notebook在Python环境下编写而成的，笔者所提交的文件包括: netease_test_3.py, netease_test_3.ipython, test_netease.wav。 <br/>
 
 ### README.md : 运行环境及基本说明  <br/>
 ### netease_test_3.ipython：开发时的ipython脚本文件 （推荐）<br/>
